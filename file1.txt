@@ -1,1 +1,4 @@
-my 1st file
+[master (root-commit) 47286eb] change line1
+ 1 file changed, 1 insertion(+)
+again changed. 
+create mode 100644 file1.txt
